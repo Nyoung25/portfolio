@@ -1,0 +1,4 @@
+PlayerCharacter: {toHit=13; dieSize=6; numDie=3; damageBonus=5;}
+Target: {ac=23;}
+rolls: {3000000}
+simulations: {6}
